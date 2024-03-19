@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 - 👋 혁신적인 기술로 모두를 위한 세상을 만드는 개발자, 김가희입니다.
 - 🔭 끊임없는 도전으로, 항상 성장하고자 합니다.
-- 👀 백엔드 개발, 기술 창업을 목표로 하고 있으며, HTML/CSS/JS , C, C++, JAVA, Python 언어를 할 수 있습니다.
+- 😄 주로 Spring Boot를 활용해 백엔드 개발을 합니다.
+- 👀 JAVA, Python // HTML/CSS/JS , C, C++ 언어를 할 수 있습니다.
 - ⚡ 아두이노, 라즈베리파이 등 Robotics SW 및 알고리즘 개발에 관심이 많습니다.
-- 😄 Spring Boot로 주로 개발합니다.
 - 🌱 경북대학교 IT대학 컴퓨터학부 글로벌SW융합전공 재학생입니다.
 - 💞️ 인스타 DM으로 연락하실 수 있습니다!
-- 📫 Instagram : @zzang_gah
+- 📫 Instagram : @zzang_gah @zzang_zedy.dev
   
 ## ✨ Awards
 * 창업해커톤 버니톤 최우수상
@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 * 피우다 공모전 우수상 및 우수 개발물 선정
 * 2023 전국 ICT 문제해결 왕중왕전 최우수상
 * 2023 K-해커톤 결선 진출
+* 2023 대경권 공공데이터 경진대회 대상
   
 ## :runner: Activity
 * Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
-* 멋쟁이 사자 11기 Member / 2023.03 ~
+* 멋쟁이 사자 11기 Member / 2023.03 ~ 2023.12
 
 
 ## Available Skills & Development Tools
