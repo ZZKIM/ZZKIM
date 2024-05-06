@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 💞️ 인스타 DM으로 연락하실 수 있습니다!
 - 📫 Instagram : @zzang_gah @zzang_zedy.dev
   
-## ✨ Awards
-* 창업해커톤 버니톤 최우수상
+## ✨ Awards
+* 창업해커톤 버니톤 최우수상
 * Microsoft 해커스그라운드 대상
 * 피우다 공모전 우수상 및 우수 개발물 선정
 * 2023 전국 ICT 문제해결 왕중왕전 최우수상
