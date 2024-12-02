@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 혁신적인 기술로 모두를 위한 세상을 만드는 개발자, 김가희입니다.
-- 🔭 끊임없는 도전으로, 항상 성장하고자 합니다.
+- 👋 Software Engineer (Backend)
+- 💻 KNU CSE (Global SW Convergence)
+
+- 👀 Interest
+  - Web
+  - OSRM
+  - Mobility
+  
 - 😄 주로 Spring Boot를 활용해 백엔드 개발을 합니다.
 - 👀 JAVA, Python // HTML/CSS/JS , C, C++ 언어를 할 수 있습니다.
 - ⚡ 아두이노, 라즈베리파이 등 Robotics SW 및 알고리즘 개발에 관심이 많습니다.
-- 🌱 경북대학교 IT대학 컴퓨터학부 글로벌SW융합전공 재학생입니다.
-- 💞️ 인스타 DM으로 연락하실 수 있습니다!
-- 📫 Instagram : @zzang_gah @zzang_zedy.dev
+- 📫 gahee.kim.dev@gmail.com
   
 ## ✨ Awards
 * 창업해커톤 버니톤 최우수상
